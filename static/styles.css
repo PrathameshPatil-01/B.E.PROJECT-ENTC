@@ -1,0 +1,76 @@
+/* Set margin for the entire body */
+body {
+  background-color: #F6F1E9 ;
+}
+a{
+   color: black;
+   text-decoration: none;
+}
+a:hover {
+  color: #FF8400;
+}
+
+a:active {
+  color: #FF8400;
+}
+
+.brand{
+
+    border-radius: 100%;
+}
+
+/* Set margin for the form container */
+.container {
+  margin: auto;
+}
+
+/* Set margin for form elements */
+.form-group {
+  margin-bottom: 1% ;
+}
+
+.display {
+    border-color: #FF8400;
+    background-color: #F6F1E9 ;
+    border-style: groove;
+    border-width: 7px;
+    border-radius: ;
+    margin-top: 3%;
+    padding: 3%;
+    height: 50%;
+    width: 70% ;
+
+}
+
+.btn{
+    margin : 3% 0 0 0;
+    border-style: groove;
+    border-width: 3px;
+    height: 60%;
+    width:  70%;
+    border-width: 4px;
+    font-size: 20px;
+
+}
+
+.center-image {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+
+.logo {
+  position: absolute;
+  top: 60%;
+  left: 53%;
+  transform: translate(-50%, -50%);
+}
+
+.menu{
+  margin:7% 0 0 0;
+}
+
+.card{
+    margin: 7%;
+}

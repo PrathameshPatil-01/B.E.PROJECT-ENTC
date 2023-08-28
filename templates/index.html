@@ -1,0 +1,40 @@
+{%extends "base.html" %}
+
+
+{% block content %}
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="display col-12">
+      <h1 class="mb-4">Student Information Form</h1>
+      <form method="post" action="{{ url_for('submit') }}">
+        <div class="form-group">
+          <label for="roll_no">Roll No:</label>
+          <input type="text" class="form-control" id="roll_no" name="roll_no" required>
+        </div>
+        <div class="form-group">
+          <label for="name">Name:</label>
+          <input type="text" class="form-control" id="name" name="name" onkeyup="this.value = this.value.toUpperCase()" required >
+        </div>
+        <div class="form-group">
+          <label for="class">Class:</label>
+          <input type="text" class="form-control" id="class" name="class" onkeyup="this.value = this.value.toUpperCase()" required>
+        </div>
+        <div class="form-group">
+
+        </div>
+        <div class="form-group">
+          <label for="division">Division:</label>
+          <input type="text" class="form-control" id="division" name="division" onkeyup="this.value = this.value.toUpperCase()" required>
+        </div>
+          <div class="row justify-content-center">
+                  <button type="submit" class="btn btn-dark">Submit</button>
+          </div>
+      </form>
+      <div class="row">
+<!--      <form method="post" action="{{ url_for('TrackImages') }}"><button type="TrackImages" class="btn btn-dark" >TrackImages</button></form>-->
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
