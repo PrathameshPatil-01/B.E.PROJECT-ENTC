@@ -85,11 +85,11 @@ Attendance records are collected and stored in an Excel sheet or a database, ens
 
 ## Results
 
-| ![](Illustration/results/lcd_1.jpg)     | ![](Illustration/results/lcd_1.jpg) | ![](Illustration/results/lcd_1.jpg) |
+| ![](Illustration/results/lcd_1.jpg)     | ![](Illustration/results/lcd_2.jpg) | ![](Illustration/results/lcd_3.jpg) |
 | :--------------------------------:      | :---------------------------------------: | :----------------------------------: |
 |            Images saved LCD Display     |         Image Data Trained LCD Display             |           Roll No recognized LCD Display            |
 
-| ![](Illustration/results/lcd_1.jpg) | ![](Illustration/results/lcd_1.jpg)           |  
+| ![](Illustration/results/lcd_4.jpg) | ![](Illustration/results/lcd_5.jpg)           |  
 | :--------------------------------------: | :--------------------------------------: |     
 |       Identifying LCD Display        |        Scan your RFID LCD Display            |           
 
