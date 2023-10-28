@@ -101,16 +101,16 @@ Attendance records are collected and stored in an Excel sheet or a database, ens
 To run the IOT-Based Smart Attendance System, you'll need the following:
 
 - Hardware:
-  - [RFID Reader]
-  - [Pi Camera]
-  - [Raspberry Pi]
-  - [LCD 16 x 2]
-  - [Connecting Wires]
+  - RFID Reader
+  - Pi Camera
+  - Raspberry Pi
+  - LCD 16 x 2
+  - Connecting Wires
 
 - Software:
-  - [Raspbian for Raspberry Pi]
-  - [Python 3.x]
-  - [SQLite Database]
+  - Raspbian for Raspberry Pi
+  - Python 3.x
+  - SQLite Database
 
 - Web Browser (for accessing the web interface)
 
