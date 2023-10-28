@@ -13,7 +13,7 @@
   <a href="#modules">Modules</a> &#xa0; | &#xa0;
   <a href="#screenshots">Screenshots</a> &#xa0; | &#xa0;
   <a href="#illustration">Illustration </a> &#xa0; | &#xa0;
-  <a href="#results">Results</a> &#xa0; | &#xa0;
+  <a href="#lcd-display">LCD Display</a> &#xa0; | &#xa0;
   <a href="#requirements">Requirements</a> &#xa0; | &#xa0;
   
 </p>
@@ -83,7 +83,7 @@ Attendance records are collected and stored in an Excel sheet or a database, ens
 
 ---
 
-## Results
+## LCD Display
 
 | ![](Illustration/results/lcd_1.jpg)     | ![](Illustration/results/lcd_2.jpg) | ![](Illustration/results/lcd_3.jpg) |
 | :--------------------------------:      | :---------------------------------------: | :----------------------------------: |
